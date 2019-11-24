@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Marketing Digital: Mídias Sociais, Reputação Online e SEO",
+    "teacher": "Winna H. I. Zansavio",
+    "init": "04/dez",
+    "value": 650,
+    "local": "Vila Olímpia",
+    "duration": 12,
+    "favorite": false,
+    "description": "Aprenda a lidar com as mais recentes técnicas e ferramentas de gestão de conteúdo em social media, descubra a importância de conhecer sua reputação on-line, ou a reputação de sua empresa e de seu produto e o que fazer para transformá-la. Desenvolva as estratégias necessárias para a elaboração de estratégias de reputação on-line, marketing em redes sociais e SEO. Descubra como otimizar seus resultados de pesquisa no Google para ser encontrado por seus clientes e maximize sua presença na web através do social media marketing e de sua reputação on-line. Conheça o poder da web 2.0! O curso possui carga horária condensada de 16 horas para a abordagem de todos os assuntos listados nos módulos, que passam de tópicos iniciais (mesmo para aqueles que não têm conhecimento da área) até os tópicos finais. Trata-se de um curso rápido intensivo."
+  },
+  {
+    "title": "Ferramentas Ágeis e Técnicas para Gestão de Produtos",
+    "teacher": "Felipe Polovanick",
+    "init": "11/dez",
+    "value": 720,
+    "local": "A Distância",
+    "duration": 12,
+    "favorite": false,
+    "description": "O grande objetivo deste workshop é fazer com que os participantes aprendam técnicas simples de serem utilizadas e implementadas (mas de enorme valor!) para auxiliar na gestão das atividades de maneira mais ágil e assertiva em ambientes em constantes mudanças e incertos.\nNão há necessidade de conhecimento prévio sobre o assunto, pois as técnicas e o mindset podem ser utilizadas em diversos seguimentos de mercado."
+  },
+  {
+    "title": "Mindful Leadershp - Novos Mindsets, Novos Caminhos",
+    "teacher": "Alphaville",
+    "init": "09/jan",
+    "value": 560,
+    "local": "aaa",
+    "duration": 12,
+    "favorite": false,
+    "description": "Liderar pessoas é um dos papéis mais desafiadores que podemos assumir na vida. No mundo interconectado 24/7/365 de hoje o que se espera da liderança é longas horas de trabalho, grandes sacrifícios e navegar por caminhos incertos entre o sucesso e o fracasso.\n\nMuitas vezes assumimos o papel da liderança porque queremos fazer a diferença, mas acabamos nos distraindo do que é importante e limitando nossa capacidade de liderar com excelência. Não podemos mais nos dar ao luxo de apenas repetir o que deu certo no passado ou tomar decisões com mentes distraídas, reativas e treinadas para enxergar ameaças onde não existem.\n\nDesenvolver a habilidade da Mindful Leadership é essencial neste momento de disrupção, é criar um novo mindset baseado no cultivo da presença, clareza mental, foco, empatia e propósito, estabelecendo conexões mais profundas e significativas no mundo.\n\nO curso Mindful Ledership será uma experiência teórica e prática, com uma abordagem fundamenta nas descobertas mais recentes da neurociência contemplativa mesclada com vivências e exercícios práticos que poderão ser facilmente incorporados na sua rotina de trabalho e vida pessoal."
+  },
+  {
+    "title": "Flutter: dos Fundamentos a Publicação",
+    "teacher": "Ricardo da Silva Ogliari",
+    "init": "27/fev",
+    "value": 660,
+    "local": "Vila Olímpia",
+    "duration": 12,
+    "favorite": false,
+    "description": "A plataforma Flutter recentemente recebeu sua versão estável. Sua abordagem no maior evento do Google (Google IO), lançamento dos primeiros apps oficiais usando a plataforma e o anúncio que a Nubank vai mudar o aplicativo deles de React Native para Flutter causaram um grande interesse, principalmente no mundo dos aplicativos móveis. Sendo assim, é uma plataforma apontada como uma das líderes de mercado em um futuro próximo, sendo assim, indispensável para profissionais que desenvolvem aplicativos móveis.\n\nEste curso visa sanar esta lacuna, mostrando os fundamentos básicos do desenvolvimento na plataforma, bem como na linguagem DART. Também, objetiva mostrar como desenvolver as principais features em aplicativos comuns no mercado, como UI, comunicação com serviços REST, mapas, geolocalização, ligação com código nativo e publicação nas lojas Apple Store e Play Store."
+  }
+]
